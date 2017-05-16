@@ -1,3 +1,4 @@
 file init
 business adding an awesome new line
 first feature message
+another message related to first feature
